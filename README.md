@@ -1,4 +1,4 @@
 # hello-world
-This is a demo.
 
 I am changing what you can write here.
+But sometimes I want to delete things.
